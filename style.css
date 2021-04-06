@@ -1,0 +1,36 @@
+#headerContainer {
+    z-index: 1000;
+     background-color: rgb(0, 86, 128);
+
+}
+#topBar{
+    background-color: black;
+}
+#searcher{
+    
+   float: right;
+   padding-right: 70px;
+}
+#today{
+    
+    float: left;
+    padding-left: 70px;
+}
+{
+    width: 228px; height: 32px;
+}
+#sliding-navigation{
+    float: left;
+}
+#logo{
+    color: blanchedalmond;
+}
+h2{
+    color: black;
+    font-weight: bold;
+}
+#paragraphs{
+    width: 70%;
+    float: left;
+    font-size: 0.9em;
+}
